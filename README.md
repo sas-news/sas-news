@@ -7,8 +7,9 @@
 
 | # | 推し |
 | - | - |
+| Linux | Arch |
 | Web開発 | Next.js |
-| Web制作 | Astro.js |
+| Web制作 | Astro |
 | デスクトップアプリ | Tauri |
 | パッケージマネージャ | Bun |
 | ターミナル | Tabby |
