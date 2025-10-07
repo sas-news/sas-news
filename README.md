@@ -1,5 +1,7 @@
 # やっほ〜SAS新聞です。
 
+[SAS新聞 | Official Site](https://sasnews.dev)
+
 [![Qiita](https://badgen.org/img/qiita/SASNEWS/articles?style=flat&label=Qiita)](https://qiita.com/SASNEWS)
 [![Zenn](https://badgen.org/img/zenn/sasnews/articles?style=flat&label=Zenn)](https://zenn.dev/sasnews)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white&value=@sas_shinbun)](https://x.com/sas_shinbun)
