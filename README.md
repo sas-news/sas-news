@@ -18,10 +18,10 @@
 | ブラウザ | Vivaldi |
 
 # 辛辣な現実を見るコーナー
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sas-news&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sas-news&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sas-news&theme=gruvbox&utcOffset=9)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sas-news&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sas-news&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sas-news&theme=gruvbox&utcOffset=9)
 ![](https://github-readme-stats.vercel.app/api?username=sas-news&theme=dracula&show_icons=true)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sas-news&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-orcin-eta.vercel.app/?username=sas-news&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
